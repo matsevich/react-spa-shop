@@ -175,3 +175,9 @@ div.left.menu  {
   height: 250px;
   text-align: center;
 }
+@media screen and ( max-width: 500px ) {
+  .ui.secondary.left.fixed.menu, .ui.icon.input, a.active.item {
+    max-height: 0px;
+    overflow: hidden;
+  }
+}
