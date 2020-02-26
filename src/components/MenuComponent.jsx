@@ -22,7 +22,7 @@ const Cart = subj => {
       </List.Content>
       <List.Content>
       
-        <i>₴ &nbsp;{price}&nbsp; x {addedCount}</i>
+        <i>₴ &nbsp;{price}&nbsp; {'x' + addedCount > 0 && `(${addedCount})`}</i>
       </List.Content>
     </List.Item>
   </List>
