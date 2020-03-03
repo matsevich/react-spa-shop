@@ -1,6 +1,5 @@
 import React from 'react';
 import { Menu, Popup, List, Button, Image, Icon } from 'semantic-ui-react';
-
 const Cart = subj => {
   const { title, id, image, price, removeFromCart, addedCount } = subj;
   return (
@@ -34,6 +33,10 @@ const MenuComponent = compon => {
   <Menu fixed="top">
         <Menu.Item name='browse' centred id="logo">
           TRUCCO.UA
+        </Menu.Item>
+        <p className='menu-text'>Visit KIKO MILANO stores in Rome, or buy cosmetics from us.</p>
+        <Menu.Item className="instagram-item"> 
+          <div className="rotate-div"><a target="_blanck" href='https://www.instagram.com/trucco.ua/'><Icon link name="instagram" size='big' /></a></div>
         </Menu.Item>
         <Menu.Menu position='right'>
           <Menu.Item name='signup'>

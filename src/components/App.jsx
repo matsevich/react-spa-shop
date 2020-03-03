@@ -23,6 +23,11 @@ class App extends Component {
         <Card.Group doubling centered stackable itemsPerRow={4}>
           {!isReady ? 
             <Segment>
+            <div className="loading-box">
+              <Dimmer active inverted>
+                <Loader inverted>Loading</Loader>
+              </Dimmer>
+              </div>
               <Dimmer active inverted>
                 <Loader inverted>Loading</Loader>
               </Dimmer>

@@ -1,6 +1,6 @@
 {
   "name": "shopping",
-  "homepage": "https://github.com/matsevich/react-shop/build",
+  "homepage": "https://github.com/matsevich/react-spa-shop/build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -76,8 +76,8 @@
   },
   "scripts": {
     "start": "node scripts/start.js",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "build": "node scripts/build.js",
+    "test": "node scripts/test.js",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
