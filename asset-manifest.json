@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/matsevich/react-spa-shop/static/css/main.e0f7285f.chunk.css",
+    "main.js": "/matsevich/react-spa-shop/static/js/main.51728167.chunk.js",
+    "main.js.map": "/matsevich/react-spa-shop/static/js/main.51728167.chunk.js.map",
+    "runtime-main.js": "/matsevich/react-spa-shop/static/js/runtime-main.586de55f.js",
+    "runtime-main.js.map": "/matsevich/react-spa-shop/static/js/runtime-main.586de55f.js.map",
+    "static/css/2.5ea57921.chunk.css": "/matsevich/react-spa-shop/static/css/2.5ea57921.chunk.css",
+    "static/js/2.6164e063.chunk.js": "/matsevich/react-spa-shop/static/js/2.6164e063.chunk.js",
+    "static/js/2.6164e063.chunk.js.map": "/matsevich/react-spa-shop/static/js/2.6164e063.chunk.js.map",
+    "index.html": "/matsevich/react-spa-shop/index.html",
+    "precache-manifest.1482cd220aab2bf03483214d0c6b1475.js": "/matsevich/react-spa-shop/precache-manifest.1482cd220aab2bf03483214d0c6b1475.js",
+    "service-worker.js": "/matsevich/react-spa-shop/service-worker.js",
+    "static/css/2.5ea57921.chunk.css.map": "/matsevich/react-spa-shop/static/css/2.5ea57921.chunk.css.map",
+    "static/css/main.e0f7285f.chunk.css.map": "/matsevich/react-spa-shop/static/css/main.e0f7285f.chunk.css.map",
+    "static/js/2.6164e063.chunk.js.LICENSE.txt": "/matsevich/react-spa-shop/static/js/2.6164e063.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/matsevich/react-spa-shop/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.586de55f.js",
+    "static/css/2.5ea57921.chunk.css",
+    "static/js/2.6164e063.chunk.js",
+    "static/css/main.e0f7285f.chunk.css",
+    "static/js/main.51728167.chunk.js"
+  ]
+}
